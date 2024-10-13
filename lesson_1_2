@@ -1,0 +1,6 @@
+print("name")
+print(2)
+print("name",2)
+print("name\n",2)
+print("welcome" ,end=" ")
+print("to class")
